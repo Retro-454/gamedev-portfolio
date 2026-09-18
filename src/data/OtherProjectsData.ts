@@ -8,6 +8,12 @@ export default [
             <div class="paragraph center">
               <img class="pc-screenshot" src="img/projects/img_2.png" alt="Sultans Of Sing Screenshot" />
           </div>
+          
+          <div class="paragraph">
+        <div class="notice">
+        Source code is available on <a href="https://github.com/Retro-454/AgileSoftwareDevelopment-ProjectTeam12" target="_blank">GitHub</a>.
+        </div>
+        </div>
 
           <div class="paragraph">
             Main features :
