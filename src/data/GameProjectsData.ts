@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Knight-player demo", "/img/projects/knight.png",
+    new ProjectData("project-1", "Knight-player demo", "img/projects/knight.png",
     `
     <div class="paragraph">
      <strong>The knight Demo</strong> is a demo created for Bandit Game Studio for the technical team to create a playable character demo of the knight class of our 3D game "Gold and Shadows"
@@ -17,8 +17,8 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="/img/projects/in_game.png" alt="In game screenshot" />
-        <img class="phone-screenshot" src="/img/projects/unity.png" alt="Unity Screnshot" />
+        <img class="phone-screenshot" src="img/projects/in_game.png" alt="In game screenshot" />
+        <img class="phone-screenshot" src="img/projects/unity.png" alt="Unity Screnshot" />
     </div>
     `, "#23bd69", true),
     new ProjectData("project-2", "Ghost Cat", "img/projects/ghost.png", `
@@ -27,7 +27,7 @@ export default [
         <br/>Play the game: <a target="_blank" href="https://retrogamer-1112.itch.io/ghost-cat">Here</a>.
     </div>
     <div class="paragraph center">
-         <img class="pc-screenshot" src="/img/projects/cat.png" alt="In-game screenshot" />
+         <img class="pc-screenshot" src="img/projects/cat.png" alt="In-game screenshot" />
     </div>
 
     <div class="paragraph">
@@ -52,7 +52,7 @@ export default [
        <br/>Play the game: <a target="_blank" href="https://retrogamer-1112.itch.io/the-odyssey">Here</a>.
     </div>
     <div class="paragraph center">
-       <img class="pc-screenshot" src="/img/projects/end.png" alt="In-game screenshot" />
+       <img class="pc-screenshot" src="img/projects/end.png" alt="In-game screenshot" />
     </div>
 
     <div class="paragraph">

@@ -14,7 +14,7 @@
     </div>
 
     <div class="photo">
-      <img src="/img/projects/rapha.jpg" alt="Avatar of John" />
+      <img src="img/projects/rapha.jpg" alt="Avatar of John" />
     </div>
 
     <div style="clear:both"></div>
