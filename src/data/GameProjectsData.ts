@@ -16,6 +16,9 @@ export default [
         </ul>
     </div>
 
+    <div class="notice">
+        Source code is available on <a href="https://github.com/Retro-454/team1_technical_2026" target="_blank">GitHub</a>.
+    </div>
     <div class="paragraph center">
         <img class="phone-screenshot" src="img/projects/in_game.png" alt="In game screenshot" />
         <img class="phone-screenshot" src="img/projects/unity.png" alt="Unity Screnshot" />
