@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Knight-player demo", "img/projects/knight.png",
+    new ProjectData("project-1", "Knight player demo", "img/projects/knight.png",
     `
     <div class="paragraph">
      <strong>The knight Demo</strong> is a demo created for Bandit Game Studio for the technical team to create a playable character demo of the knight class of our 3D game "Gold and Shadows"
@@ -21,7 +21,6 @@ export default [
         Source code is available on <a href="https://github.com/Retro-454/team1_technical_2026" target="_blank">GitHub</a>.
     </div>
     </div>
-    
     <div class="paragraph center">
         <img class="phone-screenshot" src="img/projects/in_game.png" alt="In game screenshot" />
         <img class="phone-screenshot" src="img/projects/unity.png" alt="Unity Screnshot" />
