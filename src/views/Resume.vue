@@ -11,7 +11,7 @@
       <router-link to="/contact">contact me</router-link>.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="/d/Raphael_Romero_Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
+        <a class="download-link" href="d/Raphael_Romero_Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
